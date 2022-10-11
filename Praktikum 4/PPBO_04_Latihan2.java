@@ -1,3 +1,6 @@
+// Nama : Beatrix Datu Sarira
+// NIM  : M0521015
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
