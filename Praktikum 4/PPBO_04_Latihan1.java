@@ -1,3 +1,6 @@
+// Nama : Beatrix Datu Sarira
+// NIM  : M0521015
+
 import java.util.Scanner;
 public class PPBO_04_Latihan1 {
     public static void main(String[] args) {
